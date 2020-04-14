@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yuno-takamaru/toastyplugin.git"
+    "url": "git+https://github.com/yuno-takamaru/ToastyPlugin.git"
   },
   "keywords": [
     "Toast",
@@ -29,7 +29,7 @@
   "author": "Yuno Takamaru <geraniumaqueenofthenight@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yuno-takamaru/toastyplugin/issues"
+    "url": "https://github.com/yuno-takamaru/ToastyPlugin/issues"
   },
-  "homepage": "https://github.com/yuno-takamaru/toastyplugin/"
+  "homepage": "https://github.com/yuno-takamaru/ToastyPlugin/"
 }
