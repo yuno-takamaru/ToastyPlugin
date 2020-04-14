@@ -1,4 +1,4 @@
-package com.yuno-takamaru.cordova.plugin;
+package com.yunotakamaru.cordova.plugin;
 // The native Toast API
 import android.widget.Toast;
 // Cordova-required packages
